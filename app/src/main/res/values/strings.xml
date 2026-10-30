@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Chinese Municipalities</string>
+    <string name="main_title">Municipalities in China</string>
+    <string name="input_label">I want to know about:</string>
+    <string name="input_hint">name of a municipality</string>
+    <string name="visit_site">Visit site</string>
+    <string name="error_empty">Please enter the name of a municipality.</string>
+    <string name="error_invalid">That is not one of the four municipalities. Please try again.</string>
+    <string name="error_no_municipality">No valid municipality was received. Please go back and try again.</string>
+    <string name="no_browser_app">No application is available to open this website.</string>
+</resources>
